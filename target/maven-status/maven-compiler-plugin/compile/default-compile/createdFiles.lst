@@ -1,0 +1,4 @@
+com/example/demo/DemoApplication.class
+com/example/demo/entity/MyEntityRepository.class
+com/example/demo/entity/Person.class
+com/example/demo/entity/MyEntity.class
